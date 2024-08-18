@@ -16,24 +16,6 @@ Chess is a two-player strategy game played on a checkered gameboard consisting o
 
 ---
 
-## Assignment/Project Demands
-
-- **Design and Implementation** of classes describing a console-based Chess game.
-
----
-
-## Tools
-
-The following tools have been used for this project:
-
-- **IntelliJ IDEA Community Edition** (Development)
-- **Draw.IO** (UML Diagrams)
-- **GoodNotes** (Sketching Plans)
-- **QuickTime** (Video Recording)
-- **Microsoft Office Word** (Text Editing)
-
----
-
 ## Packaging Hierarchy
 
 The project’s directory structure is organized as follows:
