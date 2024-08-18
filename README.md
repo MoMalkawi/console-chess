@@ -2,6 +2,10 @@
 
 Date: January 2023
 
+# Sample Screenshot
+![image](https://github.com/user-attachments/assets/9df4af5d-412c-45e9-abc1-6298d5da3ef9)
+
+
 ## Objectives
 
 - **Creation** of a functioning terminal-based chess simulator game.
